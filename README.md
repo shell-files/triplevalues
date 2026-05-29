@@ -9,7 +9,7 @@
 ## 👥 팀명 및 팀원 정보 (업데이트 중)
 
 <p align="center">
-  <img src="./.github/assets/triple_values_logo.svg" width="700" alt="Triple Values Logo"/>
+  <img src="https://github.com/shell-files/dev_triplevalues/blob/dev/.github/assets/triple_values_logo.svg" width="700" alt="Triple Values Logo"/>
 </p>
 
 ### 🍀 ***TripleValues***
